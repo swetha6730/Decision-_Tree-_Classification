@@ -11,4 +11,5 @@
 # Calculate accuracy
 ![image](https://github.com/swetha6730/Decision-_Tree-_Classification/assets/143177936/6e8da1ef-d172-4174-8b48-43bd6b6e827d)
 
+# CONCLUSION:According to my model Decesion Tree is succesfully completed in supervised learning machine learning with accuracy of 1
 
